@@ -2,7 +2,7 @@
 
 **Version 1.0.0**
 
-This project aims to Build a Storefront Backend With the use of the following libraries [TypeScript, Postgres Database, Node/ExpressJS, dotenv, Jasmine Unit Test, Supertest, bcrypt for hasing Password, db-migrate, jsonwebtoken].This project barely touches the surface of what is possible but will prove your ability to use what you’ve learned in real-world scenarios.
+This project aims to Build a Storefront Backend With the use of the following libraries [TypeScript, Postgres Database, Node/ExpressJS, dotenv, Jasmine Unit Test, Supertest, bcrypt for hashing Password, db-migrate, jsonwebtoken].This project barely touches the surface of what is possible but will prove your ability to use what you’ve learned in real-world scenarios.
 
 ---
 
